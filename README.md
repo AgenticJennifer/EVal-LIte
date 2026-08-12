@@ -1,4 +1,4 @@
-# eval-lite
+# Evalite
 
 A JSONL eval logger for grading LLM and agent outputs. No dashboard, no
 Docker, no dependencies beyond the Python standard library. Log a run,
