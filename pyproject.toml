@@ -10,6 +10,9 @@ authors = [{ name = "agenticjennifer" }]
 [project.optional-dependencies]
 dev = ["pytest"]
 
+[tool.setuptools]
+py-modules = ["eval_log"]
+
 [build-system]
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
